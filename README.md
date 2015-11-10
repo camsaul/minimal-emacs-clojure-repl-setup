@@ -1,4 +1,4 @@
-Barebones Emacs setup for using [CIDER](https://github.com/clojure-emacs/cider) REPL.
+Barebones Emacs setup for using [CIDER](https://github.com/clojure-emacs/cider) REPL with the essentials like `paredit` and `auto-complete`.
 
 #### Install Emacs
 
@@ -19,4 +19,4 @@ cd my-clojure-project
 emacs -cider &
 ```
 
-That's it!
+Now wait a minute for the REPL to start and that's it!
